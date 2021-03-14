@@ -6,7 +6,7 @@ import Stars from './Stars'
 
 function App() {
 
-    const count = [1,2,3,4,5,6];
+    const count = [1,2,3,4,5];
 
   
   return (
